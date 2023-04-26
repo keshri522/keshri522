@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=keshri522&label=Profile%20views&color=0e75b6&style=flat" alt="keshri522" /> </p>
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m  learning **Daily New Things**
 
 - 💬 Ask me about **MERN Stack**
 
