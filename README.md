@@ -13,7 +13,7 @@
 - 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **rkeshri522@gmail.com**
--  📫 Visit me **https://rahulportfoliokeshri.netlify.app/**
+-  📫 Visit me **https://keshri522.github.io/Myportfolio/**
   
 
 - ⚡ Fun fact **I am Funny😆**
