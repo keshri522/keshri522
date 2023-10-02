@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Ecommerce Website](https://rahulecommercewebsite.netlify.app/)
 
-- 🌱 I’m currently learning **Next.js,Typescript**
+- 🌱 I’m currently learning **Next.js Typescript**
 
 - 👨‍💻 All of my projects are available at [https://keshri522.github.io/Myportfolio/](https://keshri522.github.io/Myportfolio/)
 
