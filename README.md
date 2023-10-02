@@ -30,8 +30,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  
-<a href="https://www.linkedin.com/in/rahul-keshri-814bb8221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-keshri-814bb8221/" height="30" width="40" /></a>
-<a href="https://fb.com/rahul keshri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul keshri" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rahul-keshri-814bb8221/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-keshri-814bb8221/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/rahul.keshri.5011/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rahul keshri" height="30" width="40" /></a>
 
 
 
