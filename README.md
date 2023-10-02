@@ -10,7 +10,7 @@
 
 - 🌱 I’m  learning **Daily New Things**
 
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **MERN Stack Sql Database**
 
 - 📫 How to reach me **rkeshri522@gmail.com**
 -  📫 Visit me **https://keshri522.github.io/Myportfolio/**
