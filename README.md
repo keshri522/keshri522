@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://keshri522.github.io/Myportfolio/](https://keshri522.github.io/Myportfolio/)
 
-- 💬 Ask me about **Mern Stack , Sql Database , Next.js,Typescript **
+- 💬 Ask me about **Mern Stack , Sql Database , Next.js, Typescript **
 
 - 📫 How to reach me **rkeshri522@gmail.com**
 
